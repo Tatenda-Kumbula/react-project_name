@@ -46,3 +46,9 @@ class Rating extends Component {
 }
 
 export default Rating;
+
+const styles={
+    starStyle:{
+    color: 'orange'
+    }
+    }
